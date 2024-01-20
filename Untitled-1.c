@@ -17,10 +17,6 @@ int main() {
       }
     }
   }
-  printf("Array sebelum diurutkan: \n");
-  for(int i=0; i<n; i++){
-    printf("%d ", arr[i]);
-  }
   
 
   printf("\nArray setelah diurutkan: \n");
